@@ -1,0 +1,17 @@
+# 密钥与个人配置不进仓库
+.env
+*.key
+
+# 财报原文不进仓库(用脚本重新下载)
+data/reports/
+
+# 训练产物
+out/
+dongmi_lora_adapter/
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+
+# 系统杂项
+Thumbs.db
+.DS_Store
