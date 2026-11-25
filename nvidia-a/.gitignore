@@ -1,0 +1,6 @@
+.env
+__pycache__/
+data/index.npy
+data/results/
+Thumbs.db
+.DS_Store
